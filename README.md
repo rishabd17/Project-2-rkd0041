@@ -35,3 +35,12 @@ As an example, two shell builtins have already been added to the package builtin
       - "github.com/jh125486/CSCE4600/Project2/builtins" changes to "github.com/CoolStudent123/CSCE4600/Project2/builtins"
 
 3. Start editing the `main.go` command switch (lines 57-64) and the package `builtins` with your chosen commands.
+
+
+
+
+
+
+
+
+I have used the following builtin commands : ls, pwd, echo, mkdir, and rm
